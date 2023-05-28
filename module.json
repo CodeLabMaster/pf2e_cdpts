@@ -1,0 +1,21 @@
+{
+  "id": "pf2e_cdpts",
+  "title": "Character Development Points",
+  "description": "A small change so that villians don't feel left out...",
+  "systems": [ "pf2e" ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English (Character Development)",
+      "path": "en2.json"
+    }
+  ],
+  "relationships": {
+    "systems": [{
+      "id": "pf2e",
+      "type": "system",
+      "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json"
+    }]
+  },
+  "version": "1.0.1"
+}
