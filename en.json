@@ -5,6 +5,27 @@
             "One": "1/{max} Character Development Point"
         },
         "HeroPointsLabel": "Character Development Points",
+        "PFS": {
+            "CharacterNumber": "Character #",
+            "CurrentFaction": "Current Faction",
+            "Factions": {
+                "EA": "Builder's League",
+                "GA": "Celebrants",
+                "HH": "Export Guild",
+                "RO": "Reanimators",
+                "VS": "Tax Collectors Union",
+                "VW": "Nullstellensatz"
+            },
+            "LevelBump": "Level Bump",
+            "OrganizedPlayNumber": "Organized Play #",
+            "Reputation": "Reputation",
+            "School": {
+                "None": "Field-Commissioned Agent",
+                "Scrolls": "Scrolls",
+                "Spells": "Spells",
+                "Swords": "Swords"
+            }
+        },
         "RerollMenu": {
             "ErrorCantDelete": "You are unable to delete the original roll.",
             "ErrorNoActor": "No actor is associated to the roll",
@@ -20,6 +41,7 @@
             },
             "WarnNoHeroPoint": "{name} has no Character Development Points"
         },
+        "TabPathfinderSociety": "Blood Lords Factions",
         "UnitedPaizoWorkers": {
             "PFSNote": "Note for Pathfinder Society players: In support of UPW, merchandise purchased from the union store will count in the Online PFS region for the <span class=\"hover\" title=\"When you use a Character Development Point to reroll a check, add a +1 cirumstance bonus to the reroll\">Promotional Vestments</a> boon.",
             "ReleaseIntro": "Redmond, WA (October 14th, 2021) — Today, the workers at Paizo, Inc - publisher of the Pathfinder and Starfinder roleplaying games - are announcing their formation of the United Paizo Workers union (UPW), with the Communication Workers of America's CODE-CWA project. This union is the first of its kind in the tabletop roleplaying games industry.",
